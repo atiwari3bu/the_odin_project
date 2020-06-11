@@ -3,4 +3,4 @@ https://www.theodinproject.com/lessons/html-css
 
 You can view the webpage on 
 
-[a link](https://atiwari3bu.github.io/the_odin_project/)
+[My Google Page Copy](https://atiwari3bu.github.io/the_odin_project/)
